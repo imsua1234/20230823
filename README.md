@@ -24,7 +24,7 @@
 6. 커밋 메시지 작성 혹은 확인 후 다시 create pull request 버튼 클릭<vd>
 7. 전송이 되면 원작자의 레파지토리 pull request 탭에서 확인 가능<vd>
 
-- 풀 리퀘스트 확인하기 -<vd>
+- 풀 리퀘스트 확인하기 - <vd>
 1. pull request 버튼 클릭<vd>
 2. 내용 검토<vd>
 3. 수정된 내용을 나의 github 레파지토리 반영하려면 Merge pull request 버튼 클릭<vd>
